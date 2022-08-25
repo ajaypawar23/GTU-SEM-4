@@ -12,6 +12,8 @@
 
 - 🔭 I’m currently working on **My Skills**
 
+- 💬 Ask me about Ethical Hacking, Bug Hunting & Cyber Security related queries..
+
 - 📫 How to reach me... **ajaypawar7567@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
